@@ -125,7 +125,7 @@ padding: 0;
     max-height: 150px;
 }
 
-.Skill-menu{
+.skill-menu{
     display: block;
     margin-left: -16px;
     padding: 15px;
@@ -136,7 +136,7 @@ padding: 0;
     line-height: 24px;
 }
 
-.Skill-menu-item:first-child{
+.skill-menu-item:first-child{
     list-style-position: inside;
     color: #ff6b08;
     margin-top: 13px;
@@ -144,7 +144,7 @@ padding: 0;
     font-size: 12px;
 } 
 
-.Skill-menu-item{
+.skill-menu-item{
     list-style-position: inside;
     color: #ff6b08;
     margin-left: -6px;
@@ -153,7 +153,7 @@ padding: 0;
     line-height: 20px;
 }       
 
-.Skill-menu-item span{
+.skill-menu-item span{
     list-style-position: inside;
     margin-left: 1px;
     opacity: 0.5;
